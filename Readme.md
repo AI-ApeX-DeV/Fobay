@@ -3,10 +3,7 @@
 
 ## Overview
 
-Dietary Remix is a web application that leverages AI to transform recipes based on different dietary requirements. It allows users to input recipes and convert them to various diets such as vegan, keto, gluten-free. The application uses MindsDB with Google's Gemini Pro model to perform intelligent recipe transformations while maintaining the essence and flavor profile of the original recipe.
-
-[![Quira Vote](https://img.shields.io/badge/Quira-View%20Repo-blue)](https://quira.sh/repo/FaycalZM-dietary-remix-828689730?utm_source=copy&utm_share_context=rdp)
-
+Yummo is a web application that leverages AI to transform recipes based on different dietary requirements. It allows users to input recipes and convert them to various diets such as vegan, keto, gluten-free. The application uses Llamma ai with Google's to perform intelligent recipe transformations while maintaining the essence and flavor profile of the original recipe.
 
 ## Table of Contents 📑
 
@@ -33,13 +30,13 @@ Dietary Remix is a web application that leverages AI to transform recipes based 
 ## Technology Stack
 - **Backend**: Python with Flask framework
 - **Database**: SQLite for local storage
-- **AI Integration**: MindsDB with Google Gemini Pro Model
+- **AI Integration**: Llama ai 
 - **Frontend**: HTML, CSS, JavaScript (jQuery)
 - **API**: RESTful API endpoints for recipe management and transformation
 
 ## YouTube Demonstration
 
-[Watch the video](https://www.youtube.com/watch?v=kuW1enQS0do)
+[Watch the video](https://youtu.be/rqy8YLz9l-w)
 
 
 ## Requirements
@@ -51,8 +48,7 @@ Dietary Remix is a web application that leverages AI to transform recipes based 
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/FaycalZM/dietary-remix
-    cd dietary-remix
+    git clone https://github.com/ai-apex-dev/yummo
     ```
 
 2. **Create virtual env & activate it & Install required packages**:
@@ -92,8 +88,7 @@ mindsdb --api=http://127.0.0.1:47334
     
 ## Support 💬
 
-If you like this project, please support it by upvoting on Quira and starring the GitHub repository!
+If you like this project, please support it starring the GitHub repository!
 
-[![Quira Repo](https://img.shields.io/badge/Quira-View%20Repo-blue)](https://quira.sh/repo/FaycalZM-dietary-remix-828689730?utm_source=copy&utm_share_context=rdp)
 
 Thank you for your support!
