@@ -1,5 +1,5 @@
 
-# Dietary Remix - Your DIet Buddy 🥑💪
+# Yummo - Your DIet Buddy 🥑💪
 
 ## Overview
 
